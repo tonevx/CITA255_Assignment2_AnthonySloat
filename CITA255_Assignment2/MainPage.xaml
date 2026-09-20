@@ -6,7 +6,6 @@
     <ScrollView>
         <Grid ColumnDefinitions="*, *" RowDefinitions="Auto, Auto, *, Auto" Padding="20" RowSpacing="10" ColumnSpacing="20">
             <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Text="Game Backlog List" FontSize="28" FontAttributes="Bold" HorizontalTextAlignment="Center" FontFamily="CC Wild Words Roman"/>
-
             <Label Grid.Row="1" Grid.Column="0" Text="Games to play" TextColor="Blue" FontSize="20" Padding="10" FontFamily="CC Wild Words Roman" FontAttributes="Bold"/>
             <Label Grid.Row="1" Grid.Column="1" Text="Hours played" TextColor="Red" FontSize="20" Padding="10" FontFamily="CC Wild Words Roman" FontAttributes="Bold"/>
 
