@@ -13,3 +13,6 @@ No known issues at the moment. Numbers are calculated correctly, and items line 
 
 ## AI assistance
 No AI tools were used in the making of this assignment.
+
+## Short Debugger note
+I opened the debugger to check to see if my variable 'total' was adding the numbers correctly. In doing so, I didn't necessarily find any bugs - as my foreach loop was performing the math required by it without much problem whatsoever. I had a feeling that there were no bugs present in the project as a whole, but using the debugger tool put all of my worries to rest in a quick and efficient manner. It's an incredibly useful tool!
